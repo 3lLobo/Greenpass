@@ -1,1 +1,3 @@
 .vscode
+res/*
+private_res
