@@ -1,17 +1,29 @@
 <center> I see all this potential, and I see it squandered. </center>
+
 <center>God damn it, an entire generation pumping gas, waiting tables - slaves with white collars. </center>
+
 <center>Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. </center>
+
 <center>We're the middle children of history, man. </center>
+
 <center>No purpose or place. We have no Great War. </center>
+
 <center>No Great Depression. </center>
+
 <center>Our great war is a spiritual war... Our great depression is our lives. </center>
+
 <center>We've all been raised on television to believe that one day </center>
+
 <center>we'd all be millionaires, </center>
+
 <center>and movie gods, </center>
+
 <center>and rock stars, </center>
-<center>but we won't. </center>
+
 <center>We're slowly learning that fact.</center>
+
 <center>And we're very, very pissed off.</center>
+
 <center style="font-family:courier"> -Tyler Durden- </center>
 
 
