@@ -1,3 +1,26 @@
+<center> I see all this potential, and I see it squandered. </center>
+<center>God damn it, an entire generation pumping gas, waiting tables - slaves with white collars. </center>
+<center>Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. </center>
+<center>We're the middle children of history, man. </center>
+<center>No purpose or place. We have no Great War. </center>
+<center>No Great Depression. </center>
+<center>Our great war is a spiritual war... Our great depression is our lives. </center>
+<center>We've all been raised on television to believe that one day </center>
+<center>we'd all be millionaires, </center>
+<center>and movie gods, </center>
+<center>and rock stars, </center>
+<center>but we won't. </center>
+<center>We're slowly learning that fact.</center>
+<center>And we're very, very pissed off.</center>
+<center style="font-family:courier"> -Tyler Durden- </center>
+
+
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&label=wolf&labelColor=lightblue" />
+
+
+
 # Covid1984 Green Pass
 
 Just for fun. No fraud intended :ghost:
@@ -17,5 +40,3 @@ It's cryptography, there's no magic trick. You can see also in the example image
 ![Green Pass QR](res/qr_new.png "Green Pass QR")
 ![Your Government](res/thegovt.png "Your Government")
 
-
-'<p><strong>Schema version</strong>:1.3.0</p><p><strong>Date of birth</strong>:1999-03-11</p><p><strong>Surname(s), forename(s)</strong></p><p>&nbsp;<strong>Surname</strong>:Diks</p><p>&nbsp;<strong>Standardised surname</strong>:DIKS</p><p>&nbsp;<strong>Forename</strong>:Celine</p><p>&nbsp;<strong>Standardised forename</strong>:CELINE</p><p><strong>Vaccination Group</strong></p><p>&nbsp;<strong>disease or agent targeted</strong>:840539006</p><p>&nbsp;<strong>vaccine or prophylaxis</strong>:J07BX03</p><p>&nbsp;<strong>vaccine medicinal product</strong>:EU/1/20/1525</p><p>&nbsp;<strong>Marketing Authorization Holder</strong>:ORG-100001417</p><p>&nbsp;<strong>Dose Number</strong>:1</p><p>&nbsp;<strong>Total Series of Doses</strong>:1</p><p>&nbsp;<strong>ISO8601 complete date: Date of Vaccination</strong>:2021-07-06</p><p>&nbsp;<strong>Country of Vaccination</strong>:NL</p><p>&nbsp;<strong>Certificate Issuer</strong>:Ministry of Health Welfare and Sport</p><p>&nbsp;<strong>Unique Certificate Identifier: UVCI</strong>:URN:UCI:01:NL:OOAOUJ2LTFDLJEDST2VY42#I</p>'
